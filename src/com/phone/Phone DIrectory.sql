@@ -1,6 +1,10 @@
 create database phone_app;
 use phone_app;
 
+//===========================================================
+// Table for registration and login of User
+//===========================================================
+
 create table register
 (id int primary key not null auto_increment,
 firstname varchar(15),
@@ -10,6 +14,10 @@ password varchar(10));
 
 
 select * from register;
+                 
+//===========================================================
+// Table for storing Contact details
+//===========================================================
 
 
 create table contact
