@@ -1,6 +1,25 @@
 # Phone-Directory-App
 ---
 
+Phone Directory Application Developed using JSP, Servlet, JDBC and MySQL Database.
+
+## Following features
+- Add Contacts
+- Edit Contacts
+- List Contacts
+- Delete Contacts
+- Login Model
+- Registration Model
+- Responsive layout
+
+## Technology stack
+- Java 8+
+- JSP and Servlet
+- JDBC
+- MySQL database
+- Eclipse IDE
+- Tomcat server 8+
+
 <h3> Phone Directory Home Module 
 
 <br/> <img src="https://user-images.githubusercontent.com/45147588/114666663-24625000-9d1c-11eb-8006-9444dcffa128.PNG">
